@@ -1,0 +1,11 @@
+    1  small-behavior -h
+    2  small-behavior 7 --data-dir results
+    3  small-behavior 8 --data-dir results
+    4  cd results/
+    5  rm .keep 
+    6  cd ..
+    7  cd pycliques-project/
+    8  git pull
+    9  cd ..
+   10  small-behavior -h
+   11  history > results/command_history.txt
