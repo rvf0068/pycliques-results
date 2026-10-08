@@ -1,0 +1,5 @@
+{
+  "name": "Clique Compute Environment",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.12",
+  "postStartCommand": "if [ ! -d 'pycliques-project' ]; then git clone https://github.com/rvf0068/pycliques-project.git; else cd pycliques-project && git pull && cd ..; fi && pip install -e ./pycliques-project/packages/pycombtop -e ./pycliques-project/packages/pyg6data -e ./pycliques-project/packages/pycliques"
+}
