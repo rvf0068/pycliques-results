@@ -23,10 +23,8 @@
 251759 9 HEhvtzm - - -
 251902 9 HEhvvzm - - -
 252075 9 HEh~dzm - - -
-253557 9 HEjer^{ - - -
 253650 9 HEjer~{ - - -
 254369 9 HEjfvx} - - -
-255039 9 HEnb~jl - - -
 255141 9 HEnfbzm - - -
 260038 9 HQyvex{ inverse_cutpoint_extension conjectured_divergent snub_disphenoid
 260040 9 HQyvex} - - -

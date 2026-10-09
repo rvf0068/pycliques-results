@@ -9,3 +9,9 @@
     9  cd ..
    10  small-behavior -h
    11  history > results/command_history.txt
+   12  small-behavior 9 --data-dir results
+   13  git rm -r --cached pycliques-project
+   14  small-behavior 9 --data-dir results --bound 40
+   15  small-behavior 9 --data-dir results --bound 40 --from-indeterminate-file
+   16  small-behavior 9 --data-dir results --bound 70 --from-indeterminate-file
+   17  history > results/command_history.txt
