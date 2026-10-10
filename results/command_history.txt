@@ -15,3 +15,5 @@
    15  small-behavior 9 --data-dir results --bound 40 --from-indeterminate-file
    16  small-behavior 9 --data-dir results --bound 70 --from-indeterminate-file
    17  history > results/command_history.txt
+   18  small-behavior 10 --data-dir results
+   19  history > results/command_history.txt
