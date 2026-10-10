@@ -21,3 +21,5 @@
    21  small-behavior 10 --data-dir results --check-clique-retraction --from-indeterminate-file --exclude-conjectured-divergent
    22  small-behavior 10 --data-dir results --bound 40 --from-indeterminate-file --exclude-conjectured-divergent
    23  history > results/command_history.txt
+   24  small-behavior 10 --data-dir results --bound 50 --from-indeterminate-file --exclude-conjectured-divergent
+   25  history > results/command_history.txt
